@@ -1,6 +1,6 @@
 # About Me:
 
-I'm a seasoned full-stack developer with expertise in PHP, JavaScript, TypeScript, and Java (Ktor). I've successfully led teams and projects at companies like HorsePower Brands and Franchise Rocket. My skills include modern frameworks, CI/CD, DevOps, and Domain-Driven Design. I excel at managing the complete lifecycle of applications, from concept to deployment, delivering high-quality solutions.
+I'm a seasoned full-stack developer with expertise in PHP, JavaScript, TypeScript, and Java (Kotlin). I've successfully led teams and projects at companies like HorsePower Brands and Franchise Rocket. My skills include modern frameworks, CI/CD, DevOps, and Domain-Driven Design. I excel at managing the complete lifecycle of applications, from concept to deployment, delivering high-quality solutions.
 
 # Experience
 **Lead Fullstack Developer at HorsePower Brands**
