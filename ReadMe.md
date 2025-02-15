@@ -12,7 +12,7 @@ I'm a seasoned full-stack developer with expertise in PHP, JavaScript, TypeScrip
 * Designed a custom headless CMS using PHP, Laravel, and Angular.
 * Developed architecture for a system supporting millions of visitors.
 
-**Senior Full Stack Developer at ООО Омкод**
+**Senior Full Stack Developer at Delonghi**
 * Upgraded ERP systems and enhanced functionalities for a trading firm.
 
 # Skills
