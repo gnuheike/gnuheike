@@ -1,24 +1,11 @@
 # About Me:
 
-I'm a seasoned full-stack developer with expertise in PHP, JavaScript, TypeScript, and Java (Kotlin). I've successfully led teams and projects at companies like HorsePower Brands and Franchise Rocket. My skills include modern frameworks, CI/CD, DevOps, and Domain-Driven Design. I excel at managing the complete lifecycle of applications, from concept to deployment, delivering high-quality solutions.
-
-# Experience
-**Lead Fullstack Developer at HorsePower Brands**
-* Implemented CI/CD pipelines and Clean Architecture with DDD principles.
-* Configured Linux servers on AWS EC2.
-* Led a team to develop key applications like ZeeDatabase, Call Center Interface, and iFOAM Costing Calculator.
-
-**Lead Fullstack Developer at Franchise Rocket**
-* Designed a custom headless CMS using PHP, Laravel, and Angular.
-* Developed architecture for a system supporting millions of visitors.
-
-**Senior Full Stack Developer at Delonghi**
-* Upgraded ERP systems and enhanced functionalities for a trading firm.
+I am a seasoned developer with over eight years of industry experience, including three years in tech leadership. My primary stack includes PHP and TypeScript. I am also expanding my expertise in DevOps practices to drive further innovation. By applying Clean Architecture, Domain-Driven Design, and TDD principles, I consistently improved code quality and delivered over $100 000 in cost savings. I independently delivered a minimum viable product (MVP) for a startup that now serves more than 200 businesses and led a team of four. I have experience of modernizing legacy projects through a strategic migration to the modern ecosystems, resulting in streamlined operations and enhanced system performance.
 
 # Skills
-* Languages & Frameworks: PHP, TypeScript, JavaScript, Java (Ktor), Angular, React
+* Languages & Frameworks: PHP, TypeScript, JavaScript, .NET, Angular, React
 * Architecture: Clean Architecture, Domain-Driven Design
-* Cloud & DevOps: AWS, Microsoft PowerPlatform
+* Cloud & DevOps: AWS, Google Cloud, Microsoft PowerPlatform
 * Databases: PostgreSQL, MySQL
 * Others: Test-Driven Development, REST API, MVC
 
